@@ -1,4 +1,4 @@
---
+---
 - name: Deploy Docker Image to Container
   hosts: all
   vars:
@@ -17,4 +17,11 @@
         state: started
         tty: yes
         interactive: yes
+
+
+
+
+
+
+
 
