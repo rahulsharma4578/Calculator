@@ -32,7 +32,7 @@ public class Calculator {
                             "Enter 3 to find Power\n" +
                             "Enter 4 to find Natural Logarithm\n" +
                             "Enter any other input to Exit\n" +
-                            "daddd Enter your choice: "
+                            "Enter your choice: "
             );
 
             int choice;
