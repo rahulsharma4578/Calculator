@@ -1,1 +1,1 @@
-client1 ansible_host=localhost ansible_connection=ssh ansible_user=rahul ansible_sudo_pass=Rahul@123
+client1 ansible_host=localhost ansible_connection=ssh ansible_user=rahul ansible_sudo_pass=Rahul@123 
